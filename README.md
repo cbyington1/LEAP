@@ -27,3 +27,7 @@ To use LEAP, follow these steps:
 2. Clone this repository.
 3. Compile the Java files.
 4. Execute the `imageReader` program with appropriate arguments.
+
+## Images
+![Image 1](https://i.imgur.com/fHop91S.png)
+![Image 2](https://i.imgur.com/qrGQuaW.png)
